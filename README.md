@@ -3,6 +3,6 @@
 # Minor Data Visualisation
 TEKST???
 
-Zuyd webiste: [Zuyd.nl](https://www.zuyd.nl)
+Zuyd website: [Zuyd.nl](https://www.zuyd.nl)
 
 > gemaakt door Sabrine Bouchmal
